@@ -85,8 +85,8 @@ Hash::PriorityQueue - priority queue based on perl hashes
 
 =head1 DESCRIPTION
 
-This module implements a high-performance priority queue. It's written in pure
-Perl.
+This module implements a high-performance priority queue, based on a hash.
+It's written in pure Perl.
 
 Available functions are:
 
